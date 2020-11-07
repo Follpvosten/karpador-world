@@ -16,3 +16,12 @@
 [submodule "worldmods/mobs_animal"]
 	path = worldmods/mobs_animal
 	url = https://notabug.org/TenPlus1/mobs_animal.git
+[submodule "worldmods/dfcaverns"]
+	path = worldmods/dfcaverns
+	url = https://github.com/FaceDeer/dfcaverns.git
+[submodule "worldmods/magma_conduits"]
+	path = worldmods/magma_conduits
+	url = https://github.com/minetest-mods/magma_conduits.git
+[submodule "worldmods/minetest_doc_modpack"]
+	path = worldmods/minetest_doc_modpack
+	url = https://repo.or.cz/minetest_doc_modpack.git
