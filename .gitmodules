@@ -1,3 +1,18 @@
 [submodule "worldmods/cheese"]
 	path = worldmods/cheese
 	url = https://github.com/Follpvosten/cheese.git
+[submodule "worldmods/minetest_hudbars"]
+	path = worldmods/minetest_hudbars
+	url = https://repo.or.cz/minetest_hudbars.git
+[submodule "worldmods/minetest_hbhunger"]
+	path = worldmods/minetest_hbhunger
+	url = https://repo.or.cz/minetest_hbhunger.git
+[submodule "worldmods/hbsprint"]
+	path = worldmods/hbsprint
+	url = https://github.com/minetest-mods/hbsprint.git
+[submodule "worldmods/mobs_redo"]
+	path = worldmods/mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo.git
+[submodule "worldmods/mobs_animal"]
+	path = worldmods/mobs_animal
+	url = https://notabug.org/TenPlus1/mobs_animal.git
