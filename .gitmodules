@@ -1,0 +1,3 @@
+[submodule "worldmods/cheese"]
+	path = worldmods/cheese
+	url = https://github.com/Follpvosten/cheese.git
