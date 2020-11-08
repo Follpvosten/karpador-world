@@ -25,9 +25,3 @@
 [submodule "worldmods/minetest_doc_modpack"]
 	path = worldmods/minetest_doc_modpack
 	url = https://repo.or.cz/minetest_doc_modpack.git
-[submodule "worldmods/climate_api"]
-	path = worldmods/climate_api
-	url = https://github.com/t-affeldt/climate_api.git
-[submodule "worldmods/regional_weather"]
-	path = worldmods/regional_weather
-	url = https://github.com/t-affeldt/regional_weather.git
