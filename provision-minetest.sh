@@ -15,6 +15,8 @@ mkdir -p /var/db/minetest
     https://github.com/Follpvosten/karpador-world.git \
     /var/db/minetest/world
 
+chown -R minetest:minetest /var/db/minetest
+
 CONF_PATH=/var/db/minetest/world/minetest.conf
 [ -f ${CONF_PATH} ] && cp ${CONF_PATH} /usr/local/etc/minetest.conf
 
