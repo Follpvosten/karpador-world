@@ -6,4 +6,7 @@ to have.
 This repo also contains my server's [minetest.conf], as well as the script I
 use to deploy this setup on Hetzner Cloud.
 
+I've not yet thought about how to automate pulling data from my backup server
+or somewhere else, and that will likely be a local-only thing.
+
 The git repo is BSD 2-Clause licensed, the submodules have their own licenses.
