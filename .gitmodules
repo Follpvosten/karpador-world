@@ -25,3 +25,6 @@
 [submodule "worldmods/minetest_doc_modpack"]
 	path = worldmods/minetest_doc_modpack
 	url = https://repo.or.cz/minetest_doc_modpack.git
+[submodule "worldmods/minetest-illumination"]
+	path = worldmods/minetest-illumination
+	url = https://notabug.org/Piezo_/minetest-illumination.git
