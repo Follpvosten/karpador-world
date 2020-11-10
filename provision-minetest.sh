@@ -14,6 +14,7 @@ mkdir -p /var/db/minetest
     https://github.com/Follpvosten/karpador-world.git \
     /var/db/minetest/world
 
+# I'll definitely only do this once lol
 cd /var/db/minetest/world/worldmods/skinsdb/updater
 /usr/local/bin/python3 update_skins.py with_preview
 
