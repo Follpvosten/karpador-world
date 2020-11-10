@@ -34,3 +34,9 @@
 [submodule "worldmods/minetest_doc_minetest_game"]
 	path = worldmods/minetest_doc_minetest_game
 	url = https://repo.or.cz/minetest_doc_minetest_game.git
+[submodule "worldmods/ambience"]
+	path = worldmods/ambience
+	url = https://notabug.org/TenPlus1/ambience.git
+[submodule "worldmods/goblins"]
+	path = worldmods/goblins
+	url = https://github.com/FreeLikeGNU/goblins.git
