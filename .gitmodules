@@ -31,3 +31,6 @@
 [submodule "worldmods/3d_armor"]
 	path = worldmods/3d_armor
 	url = https://github.com/minetest-mods/3d_armor.git
+[submodule "worldmods/minetest_doc_minetest_game"]
+	path = worldmods/minetest_doc_minetest_game
+	url = https://repo.or.cz/minetest_doc_minetest_game.git
