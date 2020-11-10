@@ -40,3 +40,6 @@
 [submodule "worldmods/goblins"]
 	path = worldmods/goblins
 	url = https://github.com/FreeLikeGNU/goblins.git
+[submodule "worldmods/skinsdb"]
+	path = worldmods/skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
