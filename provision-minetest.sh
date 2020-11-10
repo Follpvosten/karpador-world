@@ -15,7 +15,7 @@ mkdir -p /var/db/minetest
     /var/db/minetest/world
 
 cd /var/db/minetest/world/worldmods/skinsdb/updater
-python3.7 update_skins.py with_preview
+/usr/local/bin/python3 update_skins.py with_preview
 
 chown -R minetest:minetest /var/db/minetest
 
