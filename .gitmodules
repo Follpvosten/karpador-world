@@ -58,3 +58,6 @@
 [submodule "worldmods/biome_lib"]
 	path = worldmods/biome_lib
 	url = https://gitlab.com/VanessaE/biome_lib.git
+[submodule "worldmods/cloudlands"]
+	path = worldmods/cloudlands
+	url = https://github.com/Treer/cloudlands.git
