@@ -20,6 +20,11 @@ if which hbsdcontrol; then
 fi
 
 mkdir -p /var/db/minetest
+# Optimize for the default sqlite page size.
+# It *would* be possible to set this to 64k and modify the sqlite
+# page size to fit that in order to maximize performance, but I'm
+# trying to keep it simple here.
+zfs create -o recordsize=4k -o mountpoint=/var/db/minetest zroot/minetest
 
 /usr/local/bin/git clone \
     --recurse-submodules \
