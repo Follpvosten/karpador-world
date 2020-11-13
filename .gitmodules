@@ -61,3 +61,6 @@
 [submodule "worldmods/cloudlands"]
 	path = worldmods/cloudlands
 	url = https://github.com/Treer/cloudlands.git
+[submodule "worldmods/regrowing_fruits"]
+	path = worldmods/regrowing_fruits
+	url = https://git.sp-codes.de/philipmi/regrowing_fruits.git
