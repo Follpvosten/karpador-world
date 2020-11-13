@@ -1,10 +1,23 @@
 #!/bin/sh
 
-freebsd-update fetch --not-running-from-cron | cat
-freebsd-update install --not-running-from-cron || echo "No updates available"
+if which hbsd-update; then
+    hbsd-update
+else
+    freebsd-update fetch --not-running-from-cron | cat
+    freebsd-update install --not-running-from-cron || echo "No updates available"
+fi
 
 ASSUME_ALWAYS_YES=yes pkg upgrade -y
 ASSUME_ALWAYS_YES=yes pkg install -y rsync git-lite minetest minetest_game py37-requests
+
+# If we're running on HardenedBSD, disable mitigations for minetest
+if which hbsdcontrol; then
+    for exe in minetest minetestserver; do
+        for mitigation in mprotect disallow_map32bit; do
+            hbsdcontrol pax disable ${mitigation} /usr/local/bin/${exe}
+        done
+    done
+fi
 
 mkdir -p /var/db/minetest
 
