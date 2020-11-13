@@ -49,3 +49,6 @@
 [submodule "worldmods/ethereal"]
 	path = worldmods/ethereal
 	url = https://notabug.org/TenPlus1/ethereal.git
+[submodule "worldmods/lumberjack"]
+	path = worldmods/lumberjack
+	url = https://github.com/joe7575/lumberjack.git
