@@ -52,3 +52,9 @@
 [submodule "worldmods/lumberjack"]
 	path = worldmods/lumberjack
 	url = https://github.com/joe7575/lumberjack.git
+[submodule "worldmods/plantlife_modpack"]
+	path = worldmods/plantlife_modpack
+	url = https://gitlab.com/VanessaE/plantlife_modpack.git
+[submodule "worldmods/biome_lib"]
+	path = worldmods/biome_lib
+	url = https://gitlab.com/VanessaE/biome_lib.git
