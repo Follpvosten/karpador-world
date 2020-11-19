@@ -3,64 +3,64 @@
 	url = https://github.com/Follpvosten/cheese.git
 [submodule "worldmods/minetest_hudbars"]
 	path = worldmods/minetest_hudbars
-	url = https://repo.or.cz/minetest_hudbars.git
+	url = https://git.karpador.xyz/repo.or.cz/minetest_hudbars.git
 [submodule "worldmods/minetest_hbhunger"]
 	path = worldmods/minetest_hbhunger
-	url = https://repo.or.cz/minetest_hbhunger.git
+	url = https://git.karpador.xyz/repo.or.cz/minetest_hbhunger.git
 [submodule "worldmods/hbsprint"]
 	path = worldmods/hbsprint
-	url = https://github.com/minetest-mods/hbsprint.git
+	url = https://git.karpador.xyz/gh/hbsprint.git
 [submodule "worldmods/mobs_redo"]
 	path = worldmods/mobs_redo
-	url = https://notabug.org/TenPlus1/mobs_redo.git
+	url = https://git.karpador.xyz/notabug/mobs_redo.git
 [submodule "worldmods/mobs_animal"]
 	path = worldmods/mobs_animal
-	url = https://notabug.org/TenPlus1/mobs_animal.git
+	url = https://git.karpador.xyz/notabug/mobs_animal.git
 [submodule "worldmods/dfcaverns"]
 	path = worldmods/dfcaverns
-	url = https://github.com/FaceDeer/dfcaverns.git
+	url = https://git.karpador.xyz/gh/dfcaverns.git
 [submodule "worldmods/magma_conduits"]
 	path = worldmods/magma_conduits
-	url = https://github.com/minetest-mods/magma_conduits.git
+	url = https://git.karpador.xyz/gh/magma_conduits.git
 [submodule "worldmods/minetest_doc_modpack"]
 	path = worldmods/minetest_doc_modpack
-	url = https://repo.or.cz/minetest_doc_modpack.git
+	url = https://git.karpador.xyz/repo.or.cz/minetest_doc_modpack.git
 [submodule "worldmods/minetest-illumination"]
 	path = worldmods/minetest-illumination
-	url = https://notabug.org/Piezo_/minetest-illumination.git
+	url = https://git.karpador.xyz/notabug/minetest-illumination.git
 [submodule "worldmods/3d_armor"]
 	path = worldmods/3d_armor
-	url = https://github.com/minetest-mods/3d_armor.git
+	url = https://git.karpador.xyz/gh/3d_armor.git
 [submodule "worldmods/minetest_doc_minetest_game"]
 	path = worldmods/minetest_doc_minetest_game
-	url = https://repo.or.cz/minetest_doc_minetest_game.git
+	url = https://git.karpador.xyz/repo.or.cz/minetest_doc_minetest_game.git
 [submodule "worldmods/ambience"]
 	path = worldmods/ambience
-	url = https://notabug.org/TenPlus1/ambience.git
+	url = https://git.karpador.xyz/notabug/ambience.git
 [submodule "worldmods/goblins"]
 	path = worldmods/goblins
-	url = https://github.com/FreeLikeGNU/goblins.git
+	url = https://git.karpador.xyz/gh/goblins.git
 [submodule "worldmods/skinsdb"]
 	path = worldmods/skinsdb
-	url = https://github.com/minetest-mods/skinsdb.git
+	url = https://git.karpador.xyz/gh/skinsdb.git
 [submodule "worldmods/signs_lib"]
 	path = worldmods/signs_lib
-	url = https://gitlab.com/VanessaE/signs_lib.git
+	url = https://git.karpador.xyz/gl/signs_lib.git
 [submodule "worldmods/ethereal"]
 	path = worldmods/ethereal
-	url = https://notabug.org/TenPlus1/ethereal.git
+	url = https://git.karpador.xyz/notabug/ethereal.git
 [submodule "worldmods/lumberjack"]
 	path = worldmods/lumberjack
-	url = https://github.com/joe7575/lumberjack.git
+	url = https://git.karpador.xyz/gh/lumberjack.git
 [submodule "worldmods/plantlife_modpack"]
 	path = worldmods/plantlife_modpack
-	url = https://gitlab.com/VanessaE/plantlife_modpack.git
+	url = https://git.karpador.xyz/gl/plantlife_modpack.git
 [submodule "worldmods/biome_lib"]
 	path = worldmods/biome_lib
-	url = https://gitlab.com/VanessaE/biome_lib.git
+	url = https://git.karpador.xyz/gl/biome_lib.git
 [submodule "worldmods/cloudlands"]
 	path = worldmods/cloudlands
-	url = https://github.com/Treer/cloudlands.git
+	url = https://git.karpador.xyz/gh/cloudlands.git
 [submodule "worldmods/regrowing_fruits"]
 	path = worldmods/regrowing_fruits
-	url = https://git.sp-codes.de/philipmi/regrowing_fruits.git
+	url = https://git.karpador.xyz/Follpvosten/regrowing_fruits.git
