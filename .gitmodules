@@ -73,3 +73,9 @@
 [submodule "worldmods/item_drop"]
 	path = worldmods/item_drop
 	url = https://git.karpador.xyz/gh/item_drop.git
+[submodule "worldmods/mobkit"]
+	path = worldmods/mobkit
+	url = https://git.karpador.xyz/gh/mobkit.git
+[submodule "worldmods/petz"]
+	path = worldmods/petz
+	url = https://git.karpador.xyz/gh/petz.git
