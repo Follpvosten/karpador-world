@@ -67,3 +67,6 @@
 [submodule "worldmods/whitelist"]
 	path = worldmods/whitelist
 	url = https://git.karpador.xyz/gl/whitelist.git
+[submodule "worldmods/craftguide"]
+	path = worldmods/craftguide
+	url = https://git.karpador.xyz/gh/craftguide.git
