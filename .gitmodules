@@ -64,3 +64,6 @@
 [submodule "worldmods/regrowing_fruits"]
 	path = worldmods/regrowing_fruits
 	url = https://git.karpador.xyz/Follpvosten/regrowing_fruits.git
+[submodule "worldmods/whitelist"]
+	path = worldmods/whitelist
+	url = https://git.karpador.xyz/gl/whitelist.git
