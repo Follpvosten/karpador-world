@@ -82,9 +82,6 @@
 [submodule "worldmods/moreores"]
 	path = worldmods/moreores
 	url = https://git.karpador.xyz/gh/moreores.git
-[submodule "worldmods/moreblocks"]
-	path = worldmods/moreblocks
-	url = https://git.karpador.xyz/gh/moreblocks.git
 [submodule "worldmods/mesecons"]
 	path = worldmods/mesecons
 	url = https://git.karpador.xyz/gh/mesecons.git
