@@ -79,3 +79,6 @@
 [submodule "worldmods/petz"]
 	path = worldmods/petz
 	url = https://git.karpador.xyz/gh/petz.git
+[submodule "worldmods/moreores"]
+	path = worldmods/moreores
+	url = https://git.karpador.xyz/gh/moreores.git
