@@ -88,3 +88,6 @@
 [submodule "worldmods/mesecons"]
 	path = worldmods/mesecons
 	url = https://git.karpador.xyz/gh/mesecons.git
+[submodule "worldmods/moretrees"]
+	path = worldmods/moretrees
+	url = https://git.karpador.xyz/gl/moretrees.git
