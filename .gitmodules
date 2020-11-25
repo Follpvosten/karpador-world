@@ -103,3 +103,6 @@
 [submodule "worldmods/vehicle_mash"]
 	path = worldmods/vehicle_mash
 	url = https://git.karpador.xyz/Follpvosten/vehicle_mash.git
+[submodule "worldmods/lib_mount"]
+	path = worldmods/lib_mount
+	url = https://git.karpador.xyz/Follpvosten/lib_mount.git
