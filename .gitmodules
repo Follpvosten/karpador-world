@@ -97,3 +97,6 @@
 [submodule "worldmods/advtrains"]
 	path = worldmods/advtrains
 	url = https://git.karpador.xyz/Follpvosten/advtrains.git
+[submodule "worldmods/minetest-advmarkers"]
+	path = worldmods/minetest-advmarkers
+	url = https://git.karpador.xyz/Follpvosten/minetest-advmarkers.git
