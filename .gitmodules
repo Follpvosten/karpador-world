@@ -88,3 +88,6 @@
 [submodule "worldmods/serveressentials"]
 	path = worldmods/serveressentials
 	url = https://git.karpador.xyz/gh/serveressentials.git
+[submodule "worldmods/minetest-telegram"]
+	path = worldmods/minetest-telegram
+	url = https://git.karpador.xyz/gh/minetest-telegram.git
