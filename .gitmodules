@@ -100,3 +100,6 @@
 [submodule "worldmods/minetest-advmarkers"]
 	path = worldmods/minetest-advmarkers
 	url = https://git.karpador.xyz/Follpvosten/minetest-advmarkers.git
+[submodule "worldmods/vehicle_mash"]
+	path = worldmods/vehicle_mash
+	url = https://git.karpador.xyz/Follpvosten/vehicle_mash.git
