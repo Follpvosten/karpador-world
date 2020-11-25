@@ -91,3 +91,6 @@
 [submodule "worldmods/minetest-telegram"]
 	path = worldmods/minetest-telegram
 	url = https://git.karpador.xyz/gh/minetest-telegram.git
+[submodule "worldmods/airtanks"]
+	path = worldmods/airtanks
+	url = https://git.karpador.xyz/gh/airtanks.git
